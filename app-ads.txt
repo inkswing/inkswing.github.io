@@ -1,0 +1,1 @@
+# Fill in appId in src/data/ads.json and run npm run gen:store to write this file.
