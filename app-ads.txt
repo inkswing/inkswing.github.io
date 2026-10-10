@@ -1,1 +1,1 @@
-# Fill in appId in src/data/ads.json and run npm run gen:store to write this file.
+google.com, pub-6040657795845936, DIRECT, f08c47fec0942fa0
